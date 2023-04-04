@@ -38,10 +38,6 @@ github.com/beorn7/perks/quantile
 github.com/bmatcuk/doublestar
 # github.com/boumenot/gocover-cobertura v1.1.0
 github.com/boumenot/gocover-cobertura
-# github.com/containerd/containerd v1.4.3
-github.com/containerd/containerd/errdefs
-github.com/containerd/containerd/log
-github.com/containerd/containerd/platforms
 # github.com/davecgh/go-spew v1.1.1
 github.com/davecgh/go-spew/spew
 # github.com/docker/cli v20.10.2+incompatible
@@ -52,8 +48,7 @@ github.com/docker/cli/opts
 # github.com/docker/distribution v2.7.0+incompatible
 github.com/docker/distribution/digestset
 github.com/docker/distribution/reference
-github.com/docker/distribution/registry/api/errcode
-# github.com/docker/docker v20.10.2+incompatible
+# github.com/docker/docker v20.10.24+incompatible
 github.com/docker/docker/api
 github.com/docker/docker/api/types
 github.com/docker/docker/api/types/blkiodev

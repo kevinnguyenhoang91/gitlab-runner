@@ -9,10 +9,9 @@ require (
 	github.com/Microsoft/go-winio v0.4.12 // indirect
 	github.com/bmatcuk/doublestar v1.3.0
 	github.com/boumenot/gocover-cobertura v1.1.0
-	github.com/containerd/containerd v1.4.3 // indirect
 	github.com/docker/cli v20.10.2+incompatible
 	github.com/docker/distribution v2.7.0+incompatible
-	github.com/docker/docker v20.10.2+incompatible
+	github.com/docker/docker v20.10.24+incompatible
 	github.com/docker/docker-credential-helpers v0.4.1 // indirect
 	github.com/docker/go-connections v0.3.0
 	github.com/docker/go-units v0.3.2-0.20160802145505-eb879ae3e2b8
